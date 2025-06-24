@@ -12,3 +12,4 @@
     int num1 = 10;
     Scanner scan=new Scanner(System.in);
 ```
+## 집c o m 에서 제목을 추가함!
